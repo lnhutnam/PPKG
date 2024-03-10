@@ -24,9 +24,13 @@ Keywords: Knowledge Graphs, Privacy-preserving, Secure multi-party computation
 <tr><td colspan="2"><a href="#ppkg-completion">5. PPKG Completion</a></td></tr> 
 <tr><td colspan="2"><a href="#ppkg-completion">6. Privacy‐preserving KG‐aware applications</a></td></tr> 
 <tr>
-	<td>&emsp;<a href=#risk-assessment-in-guarantee-loan>6.1 Risk assessment in guarantee loan (RSG)</a></td>
+	<td>&emsp;<a href=#risk-assessment-in-guarantee-loan>6.1 Risk assessment in guarantee loan (RSG)</a></td>    
+</tr>
+<tr>
 	<td>&emsp;<a href=#fraud-detection>6.2 Fraud detection (FD)</a></td>
-    <td>&emsp;<a href=#recommender-system>6.3 Recommender system (RS)</a></td>
+</tr>
+<tr>
+	<td>&emsp;<a href=#recommender-system>6.3 Recommender system (RS)</a></td>
 </tr>
 </table>
 
